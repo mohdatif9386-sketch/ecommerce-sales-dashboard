@@ -1,5 +1,3 @@
-# ecommerce-sales-dashboard
-End-to-end E-Commerce Sales Project Analysis using Excel
 # E-Commerce Sales Dashboard
 
 An interactive E-Commerce Sales Dashboard built using Excel to analyze sales, profit, customers, products, payment methods, order status, shipping modes, and monthly sales trends.
